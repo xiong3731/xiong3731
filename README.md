@@ -1,10 +1,6 @@
 # Hi there 👋
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=SRE+Engineer+;Cloud+Native+Enthusiast;Kubernetes+is+my+playground;Always+automating..." alt="Typing SVG" />
 
-### 🛠 Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,go,linux)](https://skillicons.dev)
-
 ---
 
 ### 🚀 About Me
