@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 * **SRE Engineer** focusing on Cloud Native infrastructure and automation.
-* **Currently working with:** Kubernetes, Go (gRPC), and AWS.
+* **Currently working with:** Kubernetes, Go, and Linux systems.
 * **Interested in:** Web3 infrastructure and high-availability systems.
 * **Philosophy:** If it's worth doing twice, it's worth automating.
 
