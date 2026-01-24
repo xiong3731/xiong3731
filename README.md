@@ -1,9 +1,9 @@
 ## Hi there 👋
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,go,linux,docker,aws)](https://skillicons.dev)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=xiong3731&show_icons=true&theme=radical)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=你的用户名&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xiong3731&theme=react-dark)
 <!--
 **xiong3731/xiong3731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
