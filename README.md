@@ -19,18 +19,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-| ![Stats](https://github-readme-stats.vercel.app/api?username=xiong3731&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiong3731&layout=compact&theme=radical) |
-| :--- | :--- |
-
 ### 📈 Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xiong3731&theme=react-dark)
 
----
-
-### 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
