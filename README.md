@@ -1,15 +1,12 @@
 # Hi there 👋
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=SRE+Engineer+;Cloud+Native+Enthusiast;Kubernetes+is+my+playground;Always+automating..." alt="Typing SVG" />
-
 ---
-
 ### 🚀 About Me
 
 * **SRE Engineer** focusing on Cloud Native infrastructure and automation.
 * **Currently working with:** Kubernetes, Go, and Linux systems.
 * **Interested in:** Web3 infrastructure and high-availability systems.
 * **Philosophy:** If it's worth doing twice, it's worth automating.
-
 ---
 ### 🎓 Certifications
 
