@@ -40,7 +40,7 @@
     </td>
     <td>
       <a href="https://www.credly.com/users/xiong-shaowei" target="_blank">
-        <img src="https://images.credly.com/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png" width="100" height="100" alt="RHCE">
+        <img src="https://images.credly.com/images/7d4ee7c1-e4ef-434c-897b-7e2161243428/blob" width="100" height="100" alt="RHCE">
       </a>
     </td>
     <td>
